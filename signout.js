@@ -28,7 +28,7 @@ signout.addEventListener("click", function (event) {
     // Sign-out successful.
     
     alert("Signing out...")
-    window.location.href = "index.htm"
+    window.location.href = "index.html"
     // ...
   }).catch((error) => {
     // An error happened.
